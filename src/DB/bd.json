@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Mostafa",
+      "email": "m@m.ms",
+      "password": "11111111",
+      "id": 2
+    },
+    {
+      "name": "Mostaf",
+      "email": "mos@ta.fa",
+      "password": "11111111",
+      "id": 3
+    }
+  ],
+  "resturentes": [
+    {
+      "name": "fgdfgdf",
+      "contact": "gdfgfgdf",
+      "address": "gfg",
+      "id": 1
+    }
+  ]
+}
