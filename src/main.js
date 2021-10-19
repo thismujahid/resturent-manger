@@ -3,7 +3,8 @@ import App from "./App.vue";
 import { createRouter, createWebHistory } from "vue-router";
 import routes from "./router/index.js";
 import axios from "axios";
-axios.defaults.baseURL = "http://localhost:3000";
+
+axios.defaults.baseURL = "../DB/db.json";
 const router = createRouter({
     history: createWebHistory(),
     routes,
